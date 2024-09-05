@@ -1,4 +1,4 @@
-namespace WebApi.Models.Request;
+namespace LogisticService.Contracts.Request;
 
 public class GetLocationRequest
 {

@@ -1,4 +1,4 @@
-namespace WebApi.Models.OtherModels;
+namespace LogisticService.Contracts.OtherModels;
 
 public class UpdateLocationApiModel
 {

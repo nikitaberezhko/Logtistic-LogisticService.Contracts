@@ -1,4 +1,4 @@
-namespace WebApi.Models.Response;
+namespace LogisticService.Contracts.Response;
 
 public class GetLocationResponse
 {

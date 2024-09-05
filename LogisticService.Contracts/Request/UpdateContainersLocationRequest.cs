@@ -1,6 +1,6 @@
-using WebApi.Models.OtherModels;
+using LogisticService.Contracts.OtherModels;
 
-namespace WebApi.Models.Request;
+namespace LogisticService.Contracts.Request;
 
 public class UpdateContainersLocationRequest
 {

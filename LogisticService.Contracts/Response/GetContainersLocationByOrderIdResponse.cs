@@ -1,6 +1,6 @@
-using WebApi.Models.OtherModels;
+using LogisticService.Contracts.OtherModels;
 
-namespace WebApi.Models.Response;
+namespace LogisticService.Contracts.Response;
 
 public class GetContainersLocationByOrderIdResponse
 {
