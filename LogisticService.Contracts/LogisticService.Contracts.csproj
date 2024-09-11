@@ -8,6 +8,7 @@
         <Title>LogisticService.Contracts</Title>
         <Authors>nikitaberezhko</Authors>
         <RepositoryUrl>https://github.com/nikitaberezhko/Logtistic-LogisticService.Contracts</RepositoryUrl>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>

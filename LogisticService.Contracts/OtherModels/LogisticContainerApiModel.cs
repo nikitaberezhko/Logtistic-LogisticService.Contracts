@@ -1,6 +1,6 @@
 namespace LogisticService.Contracts.OtherModels;
 
-public class ContainerApiModel
+public class LogisticContainerApiModel
 {
     public Guid Id { get; set; }
     
